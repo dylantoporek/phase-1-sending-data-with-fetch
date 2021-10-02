@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,418 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Dylan",
+      "userEmail": "dtopo@lalala",
+      "id": 1
+    },
+    {
+      "userName": "Dylan",
+      "userEmail": "dtopo@lalala",
+      "id": 2
+    },
+    {
+      "userName": "Dylan",
+      "userEmail": "dtopo@lalala",
+      "id": 3
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 4
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 5
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 6
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 7
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 8
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 9
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 10
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 11
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 12
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 13
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 14
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 15
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 16
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 17
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 18
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 19
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 20
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 21
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 22
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 23
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 24
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 25
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 26
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 27
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 28
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 29
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 30
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 31
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 32
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 33
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 34
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 35
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 36
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 37
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 38
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 39
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 40
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 41
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 42
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 43
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 44
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 45
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 46
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 47
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 48
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 49
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 50
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 51
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 52
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 53
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 54
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 55
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 56
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 57
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 58
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 59
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 60
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 61
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 62
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 63
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 64
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 65
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 66
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 67
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 68
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 69
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 70
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 71
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 72
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 73
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 74
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 75
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 76
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 77
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 78
+    },
+    {
+      "name": "Dylan",
+      "email": "dkjdnfjfn",
+      "id": 79
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 80
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 81
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
